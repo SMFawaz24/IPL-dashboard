@@ -7,21 +7,21 @@ An end-to-end data analytics project covering 17 seasons of the Indian Premier L
 ---
 
 ## Dashboard Preview
-(pictures to be added later)
+
 ### Overview 
-![Overview](screen_shots/overview.png)
+<img width="898" height="506" alt="overview" src="https://github.com/user-attachments/assets/36bce028-5ec7-4b81-8792-d52b820c006a" />
 
 ### Teams
-![Teams](screen_shots/teams.png)
+<img width="896" height="504" alt="teams" src="https://github.com/user-attachments/assets/77781fbf-041d-47da-9c66-e1be3b3e0d3a" />
 
 ### Batsmen
-![Batsmen](screen_shots/batsmen.png)
+<img width="898" height="508" alt="batsmen" src="https://github.com/user-attachments/assets/44e6003d-585f-4ca7-9c85-116828fe26d9" />
 
 ### Bowlers
-![Bowlers](screen_shots/bowlers.png)
+<img width="898" height="508" alt="bowlers" src="https://github.com/user-attachments/assets/05be5e1a-d461-40ed-900d-646419f38d41" />
 
 ### Venues
-![Venues](screen_shots/venues.png)
+<img width="904" height="512" alt="venues" src="https://github.com/user-attachments/assets/b5f8a434-a6e7-4d2f-abb4-b01b19a14075" />
 
 ---
 
